@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>animasi button</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a href="https://www.canva.com/" style="--crl:#1e9bff"><span>CANVA</span><i></i></a>
+    <a href="https://www.instagram.com/xtz._19/profilecard/?igsh=MWI1b2pnaWlqdzNybA==" style="--crl:#ff1867"><span>INSTAGRAM</span><i></i></a>
+    <a href="https://web.whatsapp.com/" style="--crl:#af58a1"><span>WHATSAPP</span><i></i></a>
+</body>
+</html>
